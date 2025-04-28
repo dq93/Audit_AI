@@ -1,8 +1,8 @@
-# ML_financial_fraud
+# Audit AI
 
 You are a data scientist working for a NYC-based international bank called Caishen. After the winter break, the company announced in an all-hands meeting that the goal for the next 3 years will be to identify fraudulent activity within their customer-facing bank accounts. While your cybersecurity team has provided you with a dataset of historic fraudulent activity, the responsibility of designing a minimal-viable-product (MVP) has fallen on your desk. 
 
-For this project you will be creating an ensemble classifier (random forest or boosted model) that will assess if fraudulent activity has occurred for a transaction. Download the dataset from the following link: https://drive.google.com/file/d/1udzVidq-uKp-muCJ0ZReHJ5mjCafesuE/view?usp=sharing Links to an external site.
+This project assesses if fraudulent activity has occurred for a transaction. The dataset can be found in the following link: https://drive.google.com/file/d/1udzVidq-uKp-muCJ0ZReHJ5mjCafesuE/view?usp=sharing Links to an external site.
 
 # Report
 i. I saw that there is not there is little correlation between the features and that this dataset is very imbalanced, making some of these model like KNN, not good candidates for this.
